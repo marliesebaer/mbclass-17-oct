@@ -16,6 +16,11 @@ library(dplyr)
 
 okay moving on.
 
+now lets look at some built in data!
+
+```{r}
+View(cars)
+```
 
 
 
